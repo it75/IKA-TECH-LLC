@@ -1,7 +1,4 @@
 
-  <title>IKA TECH LLC</title>
-  <style>
-    body {
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background-color: #000;
